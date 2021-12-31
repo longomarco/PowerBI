@@ -1,0 +1,69 @@
+﻿{
+	"name": "Dashboard #7 (White/Lime)",
+	"textClasses": {
+		"callout": {
+			"fontFace": "'Open Sans Condensed', wf_segoe-ui_semibold, helvetica, arial, sans-serif"
+		},
+		"title": {
+			"fontFace": "'Open Sans SemiBold'"
+		},
+		"header": {
+			"fontFace": "'Open Sans Condensed', wf_segoe-ui_semibold, helvetica, arial, sans-serif"
+		},
+		"label": {
+			"fontFace": "'Open Sans'"
+		}
+	},
+	"dataColors": [
+		"#56C596",
+		"#329D9C",
+		"#9FD3C7",
+		"#1E2D38",
+		"#73788B",
+		"#F6F8FC",
+		"#B4BAC3",
+		"#232448",
+		"#3599B8",
+		"#DFBFBF",
+		"#4AC5BB",
+		"#5F6B6D",
+		"#FB8281",
+		"#F4D25A",
+		"#7F898A",
+		"#A4DDEE",
+		"#FDAB89",
+		"#B687AC",
+		"#28738A",
+		"#A78F8F",
+		"#168980",
+		"#293537",
+		"#BB4A4A",
+		"#B59525",
+		"#475052",
+		"#6A9FB0",
+		"#BD7150",
+		"#7B4F71",
+		"#1B4D5C",
+		"#706060",
+		"#0F5C55",
+		"#1C2325"
+	],
+	"bad": "#9FD3C7",
+	"neutral": "#56C596",
+	"good": "#329D9C",
+	"minimum": "#9FD3C7",
+	"center": "#56C596",
+	"maximum": "#329D9C",
+	"visualStyles": {
+		"*": {
+			"*": {
+				"border": [
+					{
+						"show": true,
+						"radius": 6
+					}
+				]
+			}
+		}
+	}
+}
